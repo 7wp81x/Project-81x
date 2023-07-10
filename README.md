@@ -1,2 +1,5 @@
 # Project-81x
-termux for hackers
+The Termux environment that is best for hackers.
+
+
+##Under developement
